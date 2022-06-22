@@ -1,10 +1,15 @@
 import './App.css';
+
+import Header from './components/Header';
+import Gallery from './components/Gallery';
+
+
+
 const App = () => {
 return (
 <div className="App">
-<div>
-<h1>Harbot's Gif Gallery</h1>
-</div>
+<Header/>
+<Gallery/>
 </div>
 );
 };

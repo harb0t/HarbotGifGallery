@@ -1,0 +1,12 @@
+.galleryCompartments {
+    justify-content: center;
+    display: flex;
+
+}
+
+
+
+.galleryGif {
+    width: 200px;
+    height: 200px;
+}
